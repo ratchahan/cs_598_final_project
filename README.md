@@ -1,7 +1,9 @@
 # CS 598 Final Project - SEMI-SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS
 Final Project for CS 598 Deep Learning for Healthcare
 
->📋  A template README.md for code accompanying a Machine Learning paper
+Ratchahan Sujithan (rls7)
+
+Smarak Pattnaik (smarakp2)
 
 # SEMI-SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS
 
