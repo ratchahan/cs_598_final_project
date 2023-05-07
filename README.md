@@ -7,7 +7,7 @@ Smarak Pattnaik (smarakp2)
 
 # SEMI-SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS
 
-This repository is the official implementation of [SEMI-SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS](https://arxiv.org/abs/1609.02907). 
+This repository is an implementation of [SEMI-SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS](https://arxiv.org/abs/1609.02907). 
 
 >📋  Our code submission is in the form of a jupyter notebook. This was approved in Campuswire post #1957
 
